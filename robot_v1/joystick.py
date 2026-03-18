@@ -1,7 +1,7 @@
 """ Auteurs		: Lila Karyabwite, Milo Gumprecht
     Contact		: lila.krbwt@eduge.ch, milo.gmprc@eduge.ch
     License		: MILA_LILO
-    Date		: 18 février 2026
+    Date		: 18 mars 2026
     Version		: 1.0
     Description	: Code du joystick, permet d'envoyer les messages, avec la radio, par rapport au valeurs rapporter par le joystick
 """
